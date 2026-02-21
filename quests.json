@@ -1,0 +1,7 @@
+{
+  "name": "TechStack AI Episode",
+  "icon": {
+    "background": "conic-gradient(from 42deg at 50% 50%, #ff9f0b, #ffcc01)",
+    "lucide": "compass"
+  }
+}
